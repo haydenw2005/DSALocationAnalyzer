@@ -25,8 +25,9 @@ def startingInfo():
     print()
     print()
     print("Welcome to the final project of my data structures and algorithms independent study.")
-    print("Using data scraped from Veracross, Lakeside now has the opportunity to visualize household location data.")
-    print("With a series of algorithms, users can manipulate a graph of every (disclosed) student household.")
+    print("Play around with an example data set of a school in Houston (grades 5-12) which contains")
+    print("all the coordinates of each student's household.")
+    print("With a series of algorithms, users can manipulate a graph that contains the student's household locations.")
     print()
 
 
