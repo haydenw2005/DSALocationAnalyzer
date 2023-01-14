@@ -1,6 +1,6 @@
 from Algorithms.MSTAlgorithm import *
 from Algorithms.ClusteringAlgorithm import *
-from ExampleData.ExampleDataCreator import *
+from DataCompilation.ExampleDataCreator import *
 
 
 # Prints intro information
