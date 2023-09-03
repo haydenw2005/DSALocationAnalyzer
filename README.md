@@ -1,4 +1,4 @@
-# DSALocationAnalyzer
+# Location Analyzer
 A program that uses the coordinates of real addresses to create a graph that can be manipulated with an MST and Clustering Algorithm, then displayed using MatPlotLib.
 
 ## How it Works
